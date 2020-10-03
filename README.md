@@ -2,6 +2,10 @@
 just some repository
 so this time i want to create a repository !
 edit1
+readme-edits
+edit4
+navyatejagajula1
+=======
 edit 2
 edit 3
  readme-edits
@@ -16,23 +20,18 @@ navyatejagajula1
 =======
 ramyasree1
  readme-edits
-ee
 =======
-readme-edits
- readme-edits
-readme-edits
- readme-edits
-readme-edits
-manvitha1
-manvitha1
-=======
-=======
-Bhumika1
+ master
+master
 readme-edits
 Bhumi1
 =======
  master
-master
  master
  master
+ readme-edits
 fine
+=======
+ master
+manvitha1
+ master
