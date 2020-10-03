@@ -5,8 +5,7 @@ edit1
 edit 2
 edit 3
 edit4
- readme-edits
+readme-edits
 navyatejagajula1
 =======
-ramyasree1
 readme-edits
