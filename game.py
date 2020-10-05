@@ -71,3 +71,12 @@ class person:
         for spell in self.magic:
             print(str(i) + "i",spell["name"],"(cost:",str(spell["np"])+")")
             i += 1
+    
+    def calculate_steps(self):
+        c=Counter.self.get_hp
+        for i in range(c):
+            if i>c:
+                count+=1
+            else:
+                count-=1
+        return count
